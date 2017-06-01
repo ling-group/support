@@ -1,0 +1,24 @@
+{
+    "name": "superman2014/support",
+    "description": "some php tools",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jingyu Liu",
+            "email": "jingyu525@gmail.com"
+         }
+     ],
+    "autoload": {
+        "files": [
+            "src/helpers.php"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "1.0.x-dev"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {},
+    "type": "library"
+}
